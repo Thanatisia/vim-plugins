@@ -1,0 +1,6 @@
+[submodule "repositories/nvim/plugins/goolord/alpha.nvim/alpha-nvim"]
+	path = repositories/nvim/plugins/goolord/alpha.nvim/alpha-nvim
+	url = https://github.com/goolord/alpha-nvim
+[submodule "repositories/nvim/plugins/scottmckendry/cyberdream.nvim/cyberdream.nvim"]
+	path = repositories/nvim/plugins/scottmckendry/cyberdream.nvim/cyberdream.nvim
+	url = https://github.com/scottmckendry/cyberdream.nvim
